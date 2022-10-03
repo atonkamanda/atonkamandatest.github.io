@@ -11,7 +11,7 @@ last_updated: true
 impressum_path: null
 navbar_fixed: true
 footer_fixed: true
-max_width: 500px
+max_width: 900px
 serve_og_meta: false
 og_image: null
 github_username: atonkamanda
