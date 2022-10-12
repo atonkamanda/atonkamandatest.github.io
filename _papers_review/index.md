@@ -25,4 +25,4 @@ Although this is my main long-term research goal, I am very interested in all fi
 
 My CV can be found [here](https://atonkamanda.github.io/assets/pdf/CV_Aton_Kamanda.pdf), I regularly update the litterature on AI for BCI [here](https://github.com/atonkamanda/awesome-ai-brain-computer-interface).
 
-Below I detail some of the research directions I am considering working on in the future. Please feel free to contact me if you are interested in collaborating.
+Below I detail some of the research directions I am considering working on in the future. Please feel free to [contact me](mailto:atonkamanda@hotmail.com) if you are interested in collaborating.
